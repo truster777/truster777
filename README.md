@@ -17,6 +17,12 @@
 
 ---
 
+### 📂 Portfolio / My Projects
+
+https://github.com/truster777/trusterParser-AI
+
+---
+
 ### 🚀 Чем я занимаюсь:
 
 1.  **Industrial Scraping:** Извлечение данных любой сложности с обходом защит (Cloudflare, Akamai).
