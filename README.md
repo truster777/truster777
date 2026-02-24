@@ -1,8 +1,5 @@
 # ⚡ Fullstack Developer 
 
-### "If it can be coded, it will be done. If it can be automated, it's already finished."
-
-
 ---
 
 ### 🛠 Мой стэк:
