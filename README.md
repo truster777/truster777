@@ -14,11 +14,6 @@
 
 ---
 
-### 📂 Portfolio / My Projects
-
-https://github.com/truster777/trusterParser-AI
-
----
 
 ### 🚀 Чем я занимаюсь:
 
@@ -30,6 +25,11 @@ https://github.com/truster777/trusterParser-AI
 
 ---
 
+### 📂 Portfolio / My Projects
+
+https://github.com/truster777/trusterParser-AI
+
+---
 
 ### 📞 Контакты:
 
