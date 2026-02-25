@@ -4,14 +4,21 @@
 
 ### 🛠 Мой стэк:
 
-* **Languages:** `Python`, `JavaScript`, `TypeScript`, `SQL`, `Bash`
-* **Backend & API:** `FastAPI`, `Django`, `Node.js (Express)`, `REST`, `GraphQL`
-* **Frontend:** `React`, `Next.js`, `TailwindCSS`
-* **Automation & Scrapy:** `Playwright`, `Selenium`, `BeautifulSoup`, `Anti-detect techniques`
-* **Databases:** `PostgreSQL`, `MongoDB`, `Redis`, `SQLite`
-* **AI Integration:** `OpenAI API`, `LangChain`, `Custom AI Agents`
-* **Infrastructure:** `Docker`, `Linux (Ubuntu/Debian)`, `Nginx`, `CI/CD`
+Low-Level & High-Perf: Go (Golang), Rust, C++ (Core concepts), Python
 
+Offensive Automation: Playwright Stealth, Fingerprint Mutation, Traffic Morphing, Session Hijacking Bypass
+
+Networking & Protocol Ops: Raw Sockets, gRPC, WebSockets, TLS Fingerprinting, Proxy Orchestration
+
+Backend Architecture: FastAPI (Async), Node.js (Event-driven), Microservices, Distributed Task Queues (Celery/RabbitMQ)
+
+Database & Storage: Redis (In-memory), PostgreSQL (Complex queries), ClickHouse (BigData), SQLite (Local Storage)
+
+AI & Neural Logic: Ollama (Local LLMs), OpenCV (Computer Vision), LangChain, Autonomous AI Agents
+
+---
+
+Infrastructure & OS: Docker, Linux Kernel Internals, Systemd, Nginx (Advanced Tuning), Reverse Engineering
 ---
 
 
