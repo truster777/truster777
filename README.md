@@ -4,17 +4,13 @@
 
 ### 🛠 Мой стэк:
 
-Low-Level & High-Perf: Go (Golang), Rust, C++ (Core concepts), Python
-
-Offensive Automation: Playwright Stealth, Fingerprint Mutation, Traffic Morphing, Session Hijacking Bypass
-
-Networking & Protocol Ops: Raw Sockets, gRPC, WebSockets, TLS Fingerprinting, Proxy Orchestration
-
-Backend Architecture: FastAPI (Async), Node.js (Event-driven), Microservices, Distributed Task Queues (Celery/RabbitMQ)
-
-Database & Storage: Redis (In-memory), PostgreSQL (Complex queries), ClickHouse (BigData), SQLite (Local Storage)
-
-AI & Neural Logic: Ollama (Local LLMs), OpenCV (Computer Vision), LangChain, Autonomous AI Agents
+```text
+  SYSTEMS      : Go (Golang), Rust, C++, Linux Kernel
+  AUTOMATION   : Python (Async), Playwright Stealth, Fingerprint Mutation
+  NETWORKING   : Traffic Morphing, Raw Sockets, TLS/SSL Fingerprinting
+  AI CORE      : Ollama (Local LLM), OpenCV (Visual Logic), AI Agents
+  DATA-OPS     : Redis, PostgreSQL, ClickHouse, SQLite
+  INFRA        : Docker, Microservices, Systemd, Proxy Orchestration
 
 ---
 
