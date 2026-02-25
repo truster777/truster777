@@ -1,4 +1,4 @@
-# ⚡ Fullstack Developer 
+# ⚡ Independent Developer
 
 ---
 
