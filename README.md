@@ -4,7 +4,7 @@
 
 ### 🛠 Мой стэк:
 
-* **Languages:** `Python`, `JavaScript`, `TypeScript`, `SQL`, `Bash`
+* **Languages:** `Python`, `JavaScript`, `TypeScript`, `SQL`, `Bash`, 'Go, 'Rust', 'C', 'C++'
 * **Backend & API:** `FastAPI`, `Django`, `Node.js (Express)`, `REST`, `GraphQL`
 * **Frontend:** `React`, `Next.js`, `TailwindCSS`
 * **Automation & Scrapy:** `Playwright`, `Selenium`, `BeautifulSoup`, `Anti-detect techniques`
