@@ -25,7 +25,7 @@
 ---
 
 ### 📩 Связь со мной
-Если у тебя есть крутая идея — давай обсудим её в Telegram:
+Если у тебя есть крутая идея - давай обсудим её в Telegram:
 
 <a href="https://t.me/trusterchik" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
