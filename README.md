@@ -28,16 +28,10 @@ Infrastructure & OS: Docker, Linux Kernel Internals, Systemd, Nginx (Advanced Tu
 
 ---
 
-### 📂 Portfolio / My Projects
-
-https://github.com/truster777/trusterParser-AI
-
----
 
 ### 📞 Контакты:
 
 * **Telegram:** [@trusterchik]
-* **Kwork:** [https://kwork.ru/user/truster777]
 * **Email:** [truster2026@hotmail.com]
 
 ---
