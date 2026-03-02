@@ -33,6 +33,3 @@
 <a href="mailto:truster2026@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=truster777&show_icons=true&theme=radical&hide_border=true&bg_color=050505&text_color=fff&icon_color=ff6600" alt="Truster Stats">
